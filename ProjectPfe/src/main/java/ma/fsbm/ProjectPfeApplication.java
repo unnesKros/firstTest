@@ -33,7 +33,7 @@ public class ProjectPfeApplication {
 			/*Client client=new Client(null, "sabile","hafa", "nom", "prenom", null, null, null, null, null, null, null) ;
 		    clientRepository.save(client);*/
 		    
-		     
+		     // just a test
 		};
 	}
 
